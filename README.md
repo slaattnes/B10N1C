@@ -11,6 +11,9 @@ Power
 
 LEDs
 
+Vibration motor
+
+
 Other changes:
 
 HTS221 "ultra-compact" humidity sensor
@@ -19,8 +22,10 @@ HTS221 "ultra-compact" humidity sensor
 
 Peripherals specific for the Relations project:
 
-LIS3DH ultra low-power three axes linear accelerometer in STM's "nano" family
+LIS3DH ultra low-power three axes linear accelerometer in STM's "nano" family + ... gyroscope + magnetometer
 
-EMG - 
+or LSM9DS1 magnetic, accelerometer and gyroscope SoC
+
+EMG - on-chip amps?
 
 ENS -
