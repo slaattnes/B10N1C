@@ -26,6 +26,6 @@ LIS3DH ultra low-power three axes linear accelerometer in STM's "nano" family + 
 
 or LSM9DS1 magnetic, accelerometer and gyroscope SoC
 
-EMG - on-chip amps?
+EMG - on-chip amps? More likely ADS129x "Low-Power, 2-Channel, 24-Bit Analog Front-End for Biopotential Measurements"
 
 ENS -
